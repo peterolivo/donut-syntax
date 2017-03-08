@@ -1,13 +1,15 @@
 {
   "name": "donut-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "1.0.0",
+  "description": "I didn't like the themes available, so I made my own. Thus, Donut Syntax was born.",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "dark",
+    "donut"
   ],
-  "repository": "https://github.com/atom/donut-syntax",
+  "repository": "https://github.com/donutpixel/donut-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
