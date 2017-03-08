@@ -1,7 +1,7 @@
 {
   "name": "donut-syntax",
   "theme": "syntax",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "I didn't like the themes available, so I made my own. Thus, Donut Syntax was born.",
   "keywords": [
     "syntax",
